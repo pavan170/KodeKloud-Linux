@@ -1,4 +1,4 @@
-# DAY 01 - Linux Custom Apache User Setup
+# Linux Custom Apache User Setup
 
 ## 🔐 Why this task was given
 
@@ -24,3 +24,16 @@ useradd -u 1067 -d /var/www/yousuf -m yousuf
 
 # Verify
 id yousuf
+
+
+
+
+##✅ Final Result
+
+User yousuf exists ✔
+
+UID is 1067 ✔
+
+Home directory is /var/www/yousuf ✔
+
+Task completed 100% ✔
